@@ -16,7 +16,7 @@ Below is a description of my new webpage with city, state, country, and shape fi
 
 The webpage is very easy to use to get the results you are looking for. The webpage lets you filter your results using 5 categories. The categories are date, city, state, country, and shape. All you have to do to get your results is enter the information you are looking for in any of the filters to filter the results to your specific query. You can enter 1 filter or you can enter all 5. The choice is yours. 
 
-![Belly Button](https://github.com/jag28731/UFO-Sightings/blob/main/static/images/UFO%20Sightings.png)
+![Belly Button](https://)
  
 ## Belly Button Biodiversity Summary
 
