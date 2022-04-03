@@ -11,5 +11,5 @@ The purpose of my project was to finish Roza's dashboard. I was able take the ba
 https://jag28731.github.io/Plotly-Belly-Button-Biodiversity/
 
 ![Belly Button1](https://github.com/jag28731/Plotly-Belly-Button-Biodiversity/blob/main/Resources/BellyButton1.png)
-![Belly Button2](https://github.com/jag28731/Plotly-Belly-Button-Biodiversity/blob/main/Resources/BellyButton1.png)
+![Belly Button2](https://github.com/jag28731/Plotly-Belly-Button-Biodiversity/blob/main/Resources/BellyButton2.png)
 
