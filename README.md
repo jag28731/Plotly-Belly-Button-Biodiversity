@@ -16,5 +16,5 @@ Below is a dashboard identifying the top 10 bacterial species in belly buttons.
 
 XXX. 
 
-![Belly Button](https://)
+![Belly Button](https://github.com/jag28731/Plotly-Belly-Button-Biodiversity/blob/main/Resources/BellyButton.png)
 
