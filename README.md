@@ -8,5 +8,7 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 
 The purpose of my project was to finish Roza's dashboard. I was able take the bacterial data from volunteers and visually show the top 10 bacterial species in their belly buttons. 
 
+https://jag28731.github.io/Plotly-Belly-Button-Biodiversity/
+
 ![Belly Button](https://github.com/jag28731/Plotly-Belly-Button-Biodiversity/blob/main/Resources/BellyButton.png)
 
